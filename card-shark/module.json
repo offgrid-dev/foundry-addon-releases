@@ -1,0 +1,24 @@
+{
+  "id": "card-shark",
+  "title": "Card Shark",
+  "description": "Deal hands of 3D cards onto the canvas. Decks are built from folders of card images (one named \"Back\"), and a GM control panel, opened from the Card Stacks sidebar, picks the deck, shuffles, deals and places each player's hand around the table. Right-click a card to flip it; hold Ctrl to peek at a facedown card you own.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/styles.css"
+  ],
+  "socket": true,
+  "authors": [
+    {
+      "name": "offgrid-dev"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/offgrid-dev/foundry-addon-releases/main/card-shark/module.json",
+  "download": "https://github.com/offgrid-dev/foundry-addon-releases/releases/download/card-shark-v1.0.0/card-shark.zip"
+}
