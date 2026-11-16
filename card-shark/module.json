@@ -1,8 +1,8 @@
 {
   "id": "card-shark",
   "title": "Card Shark",
-  "description": "Deal hands of 3D cards onto the canvas. A standard 52-card deck with optional jokers is built in, and more decks are built from folders of card images (one named \"Back\"), and a GM control panel, opened from the Card Stacks sidebar, picks the deck, shuffles, deals and places each player's hand around the table. Right-click a card to flip it; hold Ctrl to peek at a facedown card you own.",
-  "version": "1.1.0",
+  "description": "Deal hands of 3D cards onto the canvas. A standard 52-card deck with optional jokers is built in, and more decks are built from folders of card images (one named \"Back\"). A GM control panel, opened from the Card Stacks sidebar, picks the deck, shuffles, deals hands and community cards, deals chosen cards, and places the deck and each hand anywhere on the table. Right-click a card to flip it, hold Ctrl to peek at a facedown card you can see, and hold Shift to turn hands to face you.",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -20,5 +20,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/offgrid-dev/foundry-addon-releases/main/card-shark/module.json",
-  "download": "https://github.com/offgrid-dev/foundry-addon-releases/releases/download/card-shark-v1.1.0/card-shark.zip"
+  "download": "https://github.com/offgrid-dev/foundry-addon-releases/releases/download/card-shark-v1.2.0/card-shark.zip"
 }
