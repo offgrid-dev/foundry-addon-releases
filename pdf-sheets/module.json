@@ -2,7 +2,7 @@
   "id": "pdf-sheets",
   "title": "PDF Sheets",
   "description": "The World of Darkness 20th anniversary character sheets, drawn from their PDFs with the PDFs' own art, and filled in like the fillable PDFs. One sheet has a tab for every game (Vampire, Werewolf, Mage, Changeling, Hunter, Demon, Wraith, Mummy, Kindred of the East); pin one as the character's game. Stays linked to the system's own data, so rolls, health and token bars keep working.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -27,5 +27,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/offgrid-dev/foundry-addon-releases/main/pdf-sheets/module.json",
-  "download": "https://github.com/offgrid-dev/foundry-addon-releases/releases/download/pdf-sheets-v0.1.1/pdf-sheets.zip"
+  "download": "https://github.com/offgrid-dev/foundry-addon-releases/releases/download/pdf-sheets-v0.1.2/pdf-sheets.zip"
 }
