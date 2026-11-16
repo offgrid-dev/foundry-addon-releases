@@ -1,8 +1,8 @@
 {
   "id": "changeling-dice-roller",
   "title": "Changeling Dice Roller",
-  "description": "A dice roller for Changeling: The Dreaming 20th (or any World of Darkness game). Roll a pool of d10s against a difficulty with willpower, bonus successes, nightmare dice and a specialty. The result card in chat has a difficulty slider, so the player who rolled or the GM can fix a wrong difficulty and the successes are worked out again without rerolling.",
-  "version": "0.1.0",
+  "description": "A dice roller for Changeling: The Dreaming 20th (or any World of Darkness game). Roll a pool of d10s against a difficulty with willpower, bonus successes, nightmare dice and a specialty. The result card in chat has a difficulty slider, so the player who rolled or the GM can fix a wrong difficulty and the successes are worked out again without rerolling, and buttons to re-roll or explode 10s onto the same card. Cards are coloured with the roller's player colour.",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -19,5 +19,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/offgrid-dev/foundry-addon-releases/main/changeling-dice-roller/module.json",
-  "download": "https://github.com/offgrid-dev/foundry-addon-releases/releases/download/changeling-dice-roller-v0.1.0/changeling-dice-roller.zip"
+  "download": "https://github.com/offgrid-dev/foundry-addon-releases/releases/download/changeling-dice-roller-v0.2.0/changeling-dice-roller.zip"
 }
