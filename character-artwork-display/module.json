@@ -2,7 +2,7 @@
   "id": "character-artwork-display",
   "title": "Character Artwork Display",
   "description": "Display character artwork for chosen actors, for all players, floating along the bottom of the canvas in a full-size row and a half-size second row. Includes a control panel (opened from the token toolbar) to add/remove/reorder displayed artwork, browse actors by folder, recent and favourites, and adjust artwork scale and spacing.",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -19,5 +19,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/offgrid-dev/foundry-addon-releases/main/character-artwork-display/module.json",
-  "download": "https://github.com/offgrid-dev/foundry-addon-releases/releases/download/character-artwork-display-v1.7.0/character-artwork-display.zip"
+  "download": "https://github.com/offgrid-dev/foundry-addon-releases/releases/download/character-artwork-display-v1.8.0/character-artwork-display.zip"
 }
